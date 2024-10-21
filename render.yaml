@@ -1,7 +1,7 @@
 databases:
   - name: colaborators
     databaseName: colaborators
-    user: postgres
+    user: colaborators
     plan: free
 
 services:
