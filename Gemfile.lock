@@ -131,7 +131,7 @@ GEM
     marcel (1.0.4)
     matrix (0.4.2)
     mini_mime (1.1.5)
-    minitest (5.25.1)
+    minitest (5.25.2)
     msgpack (1.7.3)
     net-imap (0.5.0)
       date
@@ -147,8 +147,7 @@ GEM
       racc (~> 1.4)
     nokogiri (1.16.7-x86_64-linux)
       racc (~> 1.4)
-    pagy (5.10.1)
-      activesupport
+    pagy (9.3.2)
     parallel (1.26.3)
     parser (3.3.5.0)
       ast (~> 2.4.1)
@@ -239,7 +238,7 @@ GEM
       rubocop-rails
     ruby-progressbar (1.13.0)
     rubyzip (2.3.2)
-    securerandom (0.3.1)
+    securerandom (0.3.2)
     selenium-webdriver (4.25.0)
       base64 (~> 0.2)
       logger (~> 1.4)
@@ -293,7 +292,7 @@ DEPENDENCIES
   faker (>= 2.3)
   importmap-rails
   jbuilder
-  pagy (~> 5.10)
+  pagy (~> 9.3)
   pg (~> 1.1)
   pg_search (~> 2.3)
   puma (>= 5.0)
